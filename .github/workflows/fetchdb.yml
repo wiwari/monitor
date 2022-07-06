@@ -1,0 +1,63 @@
+# This is a basic workflow to help you get started with Actions
+
+name: FHY monitoring
+
+# Controls when the workflow will run
+on:
+  # schedule:
+  #   # * is a special character in YAML so you have to quote this string
+  #   # 17:17 , 7:17 , 14:17      6:28, 11:19, 23:59  
+  #   - cron:  '17 0,1,14,15,22 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "test_schedule"
+  fhy_schedule:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Chang Timezone to Taipei
+      - name: change timezone
+        run: sudo timedatectl set-timezone Asia/Taipei
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+        with:
+          ref: 'fhy' #fhy branch
+
+      # - uses: actions/setup-python@v4
+      #   with:
+      #     python-version: '>3.8' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+      #     architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
+      # - run: python fetchdb.py --update
+
+      # Runs a single command using the runners shell
+      - name: show time
+        run: echo `date`
+
+      # Runs a single command using the runners shell
+      - name: log time
+        run: echo `date` >> time.log
+
+      - name: curl fhy
+        run:
+          curl -X GET --header 'Accept: application/json' --header 'Accept-Encoding: gzip' --compressed  'https://fhy.wra.gov.tw/WraApi/v1/Reservoir/Daily?$orderby=StationNo' -o fhydaily-tmp.json
+      - name: JQ 
+        run: cat fhydaily-tmp.json | jq > fhydaily.json
+
+      - name: remove temp file
+        run: rm fhydaily-tmp.json
+
+      - name: Push 
+        run: |
+          git config --local user.name github-actions
+          git config --local user.email github-actions@github.com
+          git add . 
+          git commit -m "FHY monitoring"
+          git push origin fhy
