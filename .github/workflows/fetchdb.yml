@@ -49,8 +49,8 @@ jobs:
         run: |
           curl -X GET --header 'Accept: application/json' --header 'Accept-Encoding: gzip' --compressed  'https://fhy.wra.gov.tw/WraApi/v1/Reservoir/Daily?$orderby=StationNo' -o fhydaily-tmp.json
 
-      - name: install jq
-        run: sudo apt install -y jq    
+      # - name: install jq
+      #   run: sudo apt install -y jq    
       
       - name: JQ 
         run: cat fhydaily-tmp.json | jq > fhydaily.json
