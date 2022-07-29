@@ -118,6 +118,13 @@
     "OutflowTotal": 0.4492
   },
   {
+    "StationNo": "31002",
+    "Time": "2022-07-29T00:00:00",
+    "AccumulatedRainfall": 42.2,
+    "InflowTotal": 133.2288,
+    "OutflowTotal": 103.0104
+  },
+  {
     "StationNo": "31201",
     "Time": "2022-07-29T00:00:00",
     "EffectiveCapacity": 2652.17,
