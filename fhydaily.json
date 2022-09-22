@@ -10,6 +10,23 @@
     "OutflowTotal": 594.32
   },
   {
+    "StationNo": "10205",
+    "Time": "2022-09-22T00:00:00",
+    "EffectiveCapacity": 33550.5,
+    "DeadWaterHeight": 110,
+    "FullWaterHeight": 170,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 60.3,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "10206",
+    "Time": "2022-09-22T00:00:00",
+    "AccumulatedRainfall": 0.1,
+    "InflowTotal": 508.98,
+    "OutflowTotal": 508.98
+  },
+  {
     "StationNo": "10211",
     "Time": "2022-09-22T00:00:00",
     "EffectiveCapacity": 69.6,
@@ -18,6 +35,16 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 91.8,
     "OutflowTotal": 51.9
+  },
+  {
+    "StationNo": "10212",
+    "Time": "2022-09-22T00:00:00",
+    "EffectiveCapacity": 174.98,
+    "DeadWaterHeight": 41,
+    "FullWaterHeight": 44.7,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 251.68,
+    "OutflowTotal": 251.68
   },
   {
     "StationNo": "10401",
@@ -39,6 +66,16 @@
     "OutflowTotal": 28.01
   },
   {
+    "StationNo": "10501",
+    "Time": "2022-09-22T00:00:00",
+    "EffectiveCapacity": 2998.94,
+    "DeadWaterHeight": 50,
+    "FullWaterHeight": 85,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 22.1,
+    "OutflowTotal": 16.7
+  },
+  {
     "StationNo": "20201",
     "Time": "2022-09-22T00:00:00",
     "EffectiveCapacity": 18642,
@@ -56,6 +93,16 @@
     "FullWaterHeight": 604.5,
     "AccumulatedRainfall": 0,
     "OutflowTotal": 282.26
+  },
+  {
+    "StationNo": "20501",
+    "Time": "2022-09-22T00:00:00",
+    "EffectiveCapacity": 3682.5,
+    "DeadWaterHeight": 969,
+    "FullWaterHeight": 1005,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 65.26,
+    "OutflowTotal": 57.92
   },
   {
     "StationNo": "20508",
@@ -135,6 +182,13 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0.5244
+  },
+  {
+    "StationNo": "30901",
+    "Time": "2022-09-22T00:00:00",
+    "AccumulatedRainfall": 1.17,
+    "InflowTotal": 623.55,
+    "OutflowTotal": 623.55
   },
   {
     "StationNo": "31201",
