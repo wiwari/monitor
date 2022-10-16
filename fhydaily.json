@@ -333,7 +333,7 @@
     "EffectiveCapacity": 104,
     "DeadWaterHeight": 2,
     "FullWaterHeight": 9,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 0.6,
     "InflowTotal": 0,
     "OutflowTotal": 0.3
   },
@@ -343,9 +343,9 @@
     "EffectiveCapacity": 63.7,
     "DeadWaterHeight": 3,
     "FullWaterHeight": 11,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 0.6,
     "InflowTotal": 0,
-    "OutflowTotal": 0.12
+    "OutflowTotal": 0.212
   },
   {
     "StationNo": "50103",
@@ -353,7 +353,7 @@
     "EffectiveCapacity": 18.5,
     "DeadWaterHeight": 0.5,
     "FullWaterHeight": 6.5,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 0.6,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -363,7 +363,7 @@
     "EffectiveCapacity": 25.45,
     "DeadWaterHeight": 0,
     "FullWaterHeight": 3,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 0.2,
     "InflowTotal": 0,
     "OutflowTotal": 0.069
   },
