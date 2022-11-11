@@ -446,7 +446,6 @@
     "EffectiveCapacity": 148.1,
     "DeadWaterHeight": 13.8,
     "FullWaterHeight": 18.35,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0.58
   },
@@ -456,7 +455,6 @@
     "EffectiveCapacity": 48.6,
     "DeadWaterHeight": 3.3,
     "FullWaterHeight": 6.3,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -466,7 +464,6 @@
     "EffectiveCapacity": 27.6,
     "DeadWaterHeight": 26.7,
     "FullWaterHeight": 31.93,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -476,7 +473,6 @@
     "EffectiveCapacity": 19,
     "DeadWaterHeight": 11,
     "FullWaterHeight": 18.17,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -486,7 +482,6 @@
     "EffectiveCapacity": 36,
     "DeadWaterHeight": 0.6,
     "FullWaterHeight": 3.65,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -496,7 +491,6 @@
     "EffectiveCapacity": 23.6,
     "DeadWaterHeight": 17,
     "FullWaterHeight": 30.59,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -506,7 +500,6 @@
     "EffectiveCapacity": 43.5,
     "DeadWaterHeight": 0.1,
     "FullWaterHeight": 3.7,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0.15
   },
@@ -516,7 +509,6 @@
     "EffectiveCapacity": 5.1,
     "DeadWaterHeight": 4,
     "FullWaterHeight": 8.22,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -526,7 +518,6 @@
     "EffectiveCapacity": 8.2,
     "DeadWaterHeight": 8,
     "FullWaterHeight": 12.54,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -536,7 +527,6 @@
     "EffectiveCapacity": 41.4,
     "DeadWaterHeight": 0.2,
     "FullWaterHeight": 3.08,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0.15
   },
@@ -546,7 +536,6 @@
     "EffectiveCapacity": 38.1,
     "DeadWaterHeight": 0,
     "FullWaterHeight": 2.69,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -556,7 +545,6 @@
     "EffectiveCapacity": 29.3,
     "DeadWaterHeight": 12,
     "FullWaterHeight": 15.79,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -566,7 +554,6 @@
     "EffectiveCapacity": 17.6,
     "DeadWaterHeight": 13.5,
     "FullWaterHeight": 17.58,
-    "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
