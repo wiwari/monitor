@@ -111,7 +111,7 @@
   {
     "StationNo": "10401",
     "Time": "2022-11-29T00:00:00",
-    "EffectiveCapacity": 503.5,
+    "EffectiveCapacity": 500.83,
     "DeadWaterHeight": 122,
     "FullWaterHeight": 141.6,
     "AccumulatedRainfall": 0,
@@ -139,7 +139,7 @@
   {
     "StationNo": "10501",
     "Time": "2022-11-29T00:00:00",
-    "EffectiveCapacity": 2998.94,
+    "EffectiveCapacity": 2993.43,
     "DeadWaterHeight": 50,
     "FullWaterHeight": 85,
     "AccumulatedRainfall": 0,
