@@ -110,6 +110,15 @@
     "OutflowTotal": 186.903
   },
   {
+    "StationNo": "20202",
+    "Time": "2023-02-12T00:00:00",
+    "EffectiveCapacity": 160.54,
+    "FullWaterHeight": 274.5,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 203.5,
+    "OutflowTotal": 204.3
+  },
+  {
     "StationNo": "20405",
     "Time": "2023-02-12T00:00:00",
     "EffectiveCapacity": 68.23,
@@ -233,6 +242,13 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 74.3,
     "OutflowTotal": 74.3
+  },
+  {
+    "StationNo": "31002",
+    "Time": "2023-02-12T00:00:00",
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 15.4656,
+    "OutflowTotal": 15.4656
   },
   {
     "StationNo": "31201",
