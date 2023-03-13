@@ -373,7 +373,8 @@
     "Time": "2023-03-12T00:00:00",
     "EffectiveCapacity": 1519.81,
     "DeadWaterHeight": 27,
-    "FullWaterHeight": 37
+    "FullWaterHeight": 37,
+    "OutflowTotal": 1.99
   },
   {
     "StationNo": "30803",
