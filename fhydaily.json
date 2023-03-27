@@ -427,7 +427,7 @@
     "EffectiveCapacity": 104,
     "DeadWaterHeight": 2,
     "FullWaterHeight": 9,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 3.4,
     "InflowTotal": 0,
     "OutflowTotal": 0.095
   },
@@ -437,7 +437,7 @@
     "EffectiveCapacity": 63.7,
     "DeadWaterHeight": 3,
     "FullWaterHeight": 11,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 3.4,
     "InflowTotal": 0,
     "OutflowTotal": 0.26
   },
@@ -447,7 +447,7 @@
     "EffectiveCapacity": 18.5,
     "DeadWaterHeight": 0.5,
     "FullWaterHeight": 6.5,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 3.4,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -457,7 +457,7 @@
     "EffectiveCapacity": 25.45,
     "DeadWaterHeight": 0,
     "FullWaterHeight": 3,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 3.5,
     "InflowTotal": 0,
     "OutflowTotal": 0.054
   },
@@ -467,7 +467,7 @@
     "EffectiveCapacity": 24,
     "DeadWaterHeight": 4,
     "FullWaterHeight": 12.5,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 1.5,
     "InflowTotal": 0,
     "OutflowTotal": 0.018
   },
@@ -487,7 +487,7 @@
     "EffectiveCapacity": 20.57,
     "DeadWaterHeight": 3,
     "FullWaterHeight": 13.4,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 5.7,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
@@ -497,7 +497,7 @@
     "EffectiveCapacity": 3.54,
     "DeadWaterHeight": 2,
     "FullWaterHeight": 8,
-    "AccumulatedRainfall": 0,
+    "AccumulatedRainfall": 1.5,
     "InflowTotal": 0,
     "OutflowTotal": 0
   },
