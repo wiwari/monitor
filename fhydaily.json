@@ -100,6 +100,16 @@
     "AccumulatedRainfall": 22.5
   },
   {
+    "StationNo": "20101",
+    "Time": "2023-03-28T00:00:00",
+    "EffectiveCapacity": 11583.69,
+    "DeadWaterHeight": 243.2,
+    "FullWaterHeight": 300,
+    "AccumulatedRainfall": 0.5,
+    "InflowTotal": 2.07,
+    "OutflowTotal": 70.14
+  },
+  {
     "StationNo": "20201",
     "Time": "2023-03-28T00:00:00",
     "EffectiveCapacity": 18866.34,
@@ -108,6 +118,24 @@
     "AccumulatedRainfall": 5,
     "InflowTotal": 49.585,
     "OutflowTotal": 167.752
+  },
+  {
+    "StationNo": "20202",
+    "Time": "2023-03-28T00:00:00",
+    "EffectiveCapacity": 141.73,
+    "FullWaterHeight": 274.5,
+    "AccumulatedRainfall": 2,
+    "InflowTotal": 185,
+    "OutflowTotal": 170.1
+  },
+  {
+    "StationNo": "20405",
+    "Time": "2023-03-28T00:00:00",
+    "EffectiveCapacity": 68.23,
+    "DeadWaterHeight": 593,
+    "FullWaterHeight": 604.5,
+    "AccumulatedRainfall": 2.08,
+    "OutflowTotal": 23.32
   },
   {
     "StationNo": "20501",
@@ -137,6 +165,26 @@
     "FullWaterHeight": 448.5,
     "AccumulatedRainfall": 2.5,
     "InflowTotal": -8.03
+  },
+  {
+    "StationNo": "30301",
+    "Time": "2023-03-28T00:00:00",
+    "EffectiveCapacity": 2484.46,
+    "DeadWaterHeight": 89,
+    "FullWaterHeight": 105,
+    "AccumulatedRainfall": 2,
+    "InflowTotal": 0,
+    "OutflowTotal": 4.43
+  },
+  {
+    "StationNo": "30302",
+    "Time": "2023-03-28T00:00:00",
+    "EffectiveCapacity": 923.97,
+    "DeadWaterHeight": 57.3,
+    "FullWaterHeight": 75.38,
+    "AccumulatedRainfall": 1,
+    "InflowTotal": 0.72,
+    "OutflowTotal": 2.9
   },
   {
     "StationNo": "30401",
@@ -207,6 +255,16 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 3.58
+  },
+  {
+    "StationNo": "30803",
+    "Time": "2023-03-28T00:00:00",
+    "EffectiveCapacity": 716,
+    "DeadWaterHeight": 29.56,
+    "FullWaterHeight": 50,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 31.89,
+    "OutflowTotal": 37.73
   },
   {
     "StationNo": "30901",
