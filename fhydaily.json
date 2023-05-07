@@ -185,6 +185,15 @@
     "OutflowTotal": 77.85
   },
   {
+    "StationNo": "20503",
+    "Time": "2023-05-06T00:00:00",
+    "EffectiveCapacity": 531.61,
+    "DeadWaterHeight": 205.25,
+    "FullWaterHeight": 214.75,
+    "AccumulatedRainfall": 0.7,
+    "InflowTotal": 196.18
+  },
+  {
     "StationNo": "20508",
     "Time": "2023-05-06T00:00:00",
     "EffectiveCapacity": 692.16,
@@ -192,6 +201,16 @@
     "FullWaterHeight": 448.5,
     "AccumulatedRainfall": 0,
     "InflowTotal": 77.04
+  },
+  {
+    "StationNo": "20509",
+    "Time": "2023-05-06T00:00:00",
+    "EffectiveCapacity": 5058.334,
+    "DeadWaterHeight": 165,
+    "FullWaterHeight": 211.5,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 14.45
   },
   {
     "StationNo": "30301",
@@ -215,13 +234,23 @@
   },
   {
     "StationNo": "30401",
-    "Time": "2023-05-05T08:00:00",
+    "Time": "2023-05-06T08:00:00",
     "EffectiveCapacity": 1387.5,
     "DeadWaterHeight": 85,
     "FullWaterHeight": 109,
+    "AccumulatedRainfall": 4.75,
+    "InflowTotal": 0.592,
+    "OutflowTotal": 2.592
+  },
+  {
+    "StationNo": "30501",
+    "Time": "2023-05-06T07:00:00",
+    "EffectiveCapacity": 7920.85,
+    "DeadWaterHeight": 40,
+    "FullWaterHeight": 58.18,
     "AccumulatedRainfall": 0,
-    "InflowTotal": 0.3698,
-    "OutflowTotal": 0.9936
+    "InflowTotal": 2.2,
+    "OutflowTotal": 83.2
   },
   {
     "StationNo": "30502",
@@ -252,26 +281,6 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0.32
-  },
-  {
-    "StationNo": "30601",
-    "Time": "2023-05-05T08:00:00",
-    "EffectiveCapacity": 106.1,
-    "DeadWaterHeight": 30.7,
-    "FullWaterHeight": 37,
-    "AccumulatedRainfall": 0,
-    "InflowTotal": 0,
-    "OutflowTotal": 0
-  },
-  {
-    "StationNo": "30602",
-    "Time": "2023-05-05T08:00:00",
-    "EffectiveCapacity": 47.1,
-    "DeadWaterHeight": 27.5,
-    "FullWaterHeight": 31,
-    "AccumulatedRainfall": 0,
-    "InflowTotal": 0,
-    "OutflowTotal": 0
   },
   {
     "StationNo": "30802",
