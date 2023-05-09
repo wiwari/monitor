@@ -595,7 +595,7 @@
   {
     "StationNo": "50210",
     "Time": "2023-05-08T00:00:00",
-    "EffectiveCapacity": 0,
+    "EffectiveCapacity": 41.4,
     "DeadWaterHeight": 0.2,
     "FullWaterHeight": 3.08,
     "AccumulatedRainfall": 3.5,
