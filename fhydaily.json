@@ -59,7 +59,9 @@
     "StationNo": "10404",
     "Time": "2023-05-12T00:00:00",
     "FullWaterHeight": 44,
-    "AccumulatedRainfall": 3.2
+    "AccumulatedRainfall": 3.2,
+    "InflowTotal": 19.44,
+    "OutflowTotal": 19.44
   },
   {
     "StationNo": "10405",
@@ -174,6 +176,13 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 0,
     "OutflowTotal": 0
+  },
+  {
+    "StationNo": "30901",
+    "Time": "2023-05-12T00:00:00",
+    "AccumulatedRainfall": 1.1,
+    "InflowTotal": 75,
+    "OutflowTotal": 75
   },
   {
     "StationNo": "31301",
