@@ -12,7 +12,8 @@
   {
     "StationNo": "10404",
     "Time": "2023-06-06T00:00:00",
-    "FullWaterHeight": 44
+    "FullWaterHeight": 44,
+    "AccumulatedRainfall": 0
   },
   {
     "StationNo": "10405",
