@@ -237,7 +237,8 @@
     "EffectiveCapacity": 60,
     "DeadWaterHeight": 759.17,
     "FullWaterHeight": 764.45,
-    "InflowTotal": 440
+    "InflowTotal": 440,
+    "OutflowTotal": 440
   },
   {
     "StationNo": "20508",
