@@ -52,8 +52,9 @@
     "EffectiveCapacity": 69.6,
     "DeadWaterHeight": 17,
     "FullWaterHeight": 22.5,
-    "InflowTotal": 330.5,
-    "OutflowTotal": 330.5
+    "AccumulatedRainfall": 7,
+    "InflowTotal": 343.2,
+    "OutflowTotal": 343.2
   },
   {
     "StationNo": "10212",
@@ -91,6 +92,16 @@
     "AccumulatedRainfall": 6.2,
     "InflowTotal": 35.43,
     "OutflowTotal": 34.37
+  },
+  {
+    "StationNo": "10501",
+    "Time": "2023-08-24T00:00:00",
+    "EffectiveCapacity": 2993.43,
+    "DeadWaterHeight": 50,
+    "FullWaterHeight": 85,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 6.2,
+    "OutflowTotal": 14.8
   },
   {
     "StationNo": "10802",
@@ -136,6 +147,35 @@
     "AccumulatedRainfall": 7,
     "InflowTotal": 260.68,
     "OutflowTotal": 349.82
+  },
+  {
+    "StationNo": "20502",
+    "Time": "2023-08-24T00:00:00",
+    "EffectiveCapacity": 12949.09,
+    "DeadWaterHeight": 727.27,
+    "FullWaterHeight": 748.48,
+    "AccumulatedRainfall": 8.5,
+    "InflowTotal": 529.11,
+    "OutflowTotal": 551.92
+  },
+  {
+    "StationNo": "20507",
+    "Time": "2023-08-24T00:00:00",
+    "EffectiveCapacity": 60,
+    "DeadWaterHeight": 760.12,
+    "FullWaterHeight": 764.45,
+    "AccumulatedRainfall": 15,
+    "InflowTotal": 529.11,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "20508",
+    "Time": "2023-08-24T00:00:00",
+    "EffectiveCapacity": 692.16,
+    "DeadWaterHeight": 427,
+    "FullWaterHeight": 448.5,
+    "AccumulatedRainfall": 5,
+    "InflowTotal": 12.05
   },
   {
     "StationNo": "20509",
@@ -237,11 +277,28 @@
     "InflowTotal": 75.69
   },
   {
+    "StationNo": "30803",
+    "Time": "2023-08-24T00:00:00",
+    "EffectiveCapacity": 716,
+    "DeadWaterHeight": 29.56,
+    "FullWaterHeight": 50,
+    "AccumulatedRainfall": 0.5,
+    "InflowTotal": 12.26,
+    "OutflowTotal": 25.4
+  },
+  {
     "StationNo": "30901",
     "Time": "2023-08-24T00:00:00",
     "AccumulatedRainfall": 30.2,
     "InflowTotal": 2247.7,
     "OutflowTotal": 2247.7
+  },
+  {
+    "StationNo": "31002",
+    "Time": "2023-08-24T00:00:00",
+    "AccumulatedRainfall": 40.4,
+    "InflowTotal": 477.5328,
+    "OutflowTotal": 477.5328
   },
   {
     "StationNo": "31201",
