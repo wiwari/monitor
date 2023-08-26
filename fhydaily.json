@@ -47,6 +47,15 @@
     "OutflowTotal": 256.01
   },
   {
+    "StationNo": "10209",
+    "Time": "2023-08-26T00:00:00",
+    "EffectiveCapacity": 28.28,
+    "DeadWaterHeight": 104,
+    "FullWaterHeight": 109.2,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 196.9
+  },
+  {
     "StationNo": "10212",
     "Time": "2023-08-26T00:00:00",
     "EffectiveCapacity": 174.98,
@@ -55,6 +64,24 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 293.93,
     "OutflowTotal": 293.93
+  },
+  {
+    "StationNo": "10213",
+    "Time": "2023-08-26T00:00:00",
+    "EffectiveCapacity": 17.56,
+    "DeadWaterHeight": 208,
+    "FullWaterHeight": 219.2,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 127.9
+  },
+  {
+    "StationNo": "10214",
+    "Time": "2023-08-26T00:00:00",
+    "EffectiveCapacity": 3.87,
+    "DeadWaterHeight": 208.6,
+    "FullWaterHeight": 214.8,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 21.2
   },
   {
     "StationNo": "10401",
@@ -100,6 +127,15 @@
     "OutflowTotal": 376.861
   },
   {
+    "StationNo": "20202",
+    "Time": "2023-08-26T00:00:00",
+    "EffectiveCapacity": 141.73,
+    "FullWaterHeight": 274.5,
+    "AccumulatedRainfall": 1,
+    "InflowTotal": 1246.9,
+    "OutflowTotal": 1260
+  },
+  {
     "StationNo": "20405",
     "Time": "2023-08-26T00:00:00",
     "EffectiveCapacity": 68.23,
@@ -107,6 +143,16 @@
     "FullWaterHeight": 604.5,
     "AccumulatedRainfall": 27,
     "OutflowTotal": 247.22
+  },
+  {
+    "StationNo": "20501",
+    "Time": "2023-08-26T00:00:00",
+    "EffectiveCapacity": 3682.5,
+    "DeadWaterHeight": 969,
+    "FullWaterHeight": 1005,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 218.53,
+    "OutflowTotal": 340.56
   },
   {
     "StationNo": "20502",
@@ -212,6 +258,13 @@
     "AccumulatedRainfall": 30.6,
     "InflowTotal": 2420.76,
     "OutflowTotal": 2420.76
+  },
+  {
+    "StationNo": "31002",
+    "Time": "2023-08-26T00:00:00",
+    "AccumulatedRainfall": 40,
+    "InflowTotal": 601.1712,
+    "OutflowTotal": 601.1712
   },
   {
     "StationNo": "31201",
