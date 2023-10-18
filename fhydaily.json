@@ -417,6 +417,86 @@
     "OutflowTotal": 17.28
   },
   {
+    "StationNo": "31301",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 104,
+    "DeadWaterHeight": 2,
+    "FullWaterHeight": 9,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0.202
+  },
+  {
+    "StationNo": "50102",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 63.7,
+    "DeadWaterHeight": 3,
+    "FullWaterHeight": 11,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "50103",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 18.5,
+    "DeadWaterHeight": 0.5,
+    "FullWaterHeight": 6.5,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "50104",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 25.45,
+    "DeadWaterHeight": 0,
+    "FullWaterHeight": 3,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0.056
+  },
+  {
+    "StationNo": "50105",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 24,
+    "DeadWaterHeight": 4,
+    "FullWaterHeight": 12.5,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0.002
+  },
+  {
+    "StationNo": "50106",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 22.84,
+    "DeadWaterHeight": 16,
+    "FullWaterHeight": 24,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "50108",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 20.57,
+    "DeadWaterHeight": 3,
+    "FullWaterHeight": 13.4,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "50109",
+    "Time": "2023-10-17T00:00:00",
+    "EffectiveCapacity": 3.54,
+    "DeadWaterHeight": 2,
+    "FullWaterHeight": 8,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
     "StationNo": "50201",
     "Time": "2023-10-17T00:00:00",
     "EffectiveCapacity": 148.1,
