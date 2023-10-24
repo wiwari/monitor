@@ -216,6 +216,15 @@
     "OutflowTotal": 126.84
   },
   {
+    "StationNo": "20503",
+    "Time": "2023-10-23T00:00:00",
+    "EffectiveCapacity": 531.61,
+    "DeadWaterHeight": 205.25,
+    "FullWaterHeight": 214.75,
+    "AccumulatedRainfall": 1.9,
+    "InflowTotal": 665.19
+  },
+  {
     "StationNo": "20507",
     "Time": "2023-10-23T00:00:00",
     "EffectiveCapacity": 60,
