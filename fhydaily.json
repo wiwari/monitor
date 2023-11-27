@@ -216,9 +216,9 @@
   {
     "StationNo": "20502",
     "Time": "2023-11-26T00:00:00",
-    "EffectiveCapacity": 11880.04,
+    "EffectiveCapacity": 12949.09,
     "DeadWaterHeight": 727.27,
-    "FullWaterHeight": 747.15,
+    "FullWaterHeight": 748.48,
     "AccumulatedRainfall": 0,
     "InflowTotal": 26.35,
     "OutflowTotal": 40.26
