@@ -141,6 +141,12 @@
     "OutflowTotal": 257.73
   },
   {
+    "StationNo": "31002",
+    "Time": "2023-12-02T00:00:00",
+    "InflowTotal": 38.6208,
+    "OutflowTotal": 28.6208
+  },
+  {
     "StationNo": "31301",
     "Time": "2023-12-02T00:00:00",
     "EffectiveCapacity": 104,
