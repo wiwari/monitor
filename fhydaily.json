@@ -94,6 +94,16 @@
     "OutflowTotal": 24
   },
   {
+    "StationNo": "20101",
+    "Time": "2024-01-12T00:00:00",
+    "EffectiveCapacity": 11555.87,
+    "DeadWaterHeight": 243.2,
+    "FullWaterHeight": 300,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 17.45,
+    "OutflowTotal": 60.11
+  },
+  {
     "StationNo": "20201",
     "Time": "2024-01-12T00:00:00",
     "EffectiveCapacity": 18866.34,
@@ -102,6 +112,15 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 51.157,
     "OutflowTotal": 86.77
+  },
+  {
+    "StationNo": "20202",
+    "Time": "2024-01-12T00:00:00",
+    "EffectiveCapacity": 143.28,
+    "FullWaterHeight": 274.5,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 89.7,
+    "OutflowTotal": 96.6
   },
   {
     "StationNo": "20405",
@@ -149,6 +168,26 @@
     "FullWaterHeight": 448.5,
     "AccumulatedRainfall": 0,
     "InflowTotal": 50.24
+  },
+  {
+    "StationNo": "30301",
+    "Time": "2024-01-12T00:00:00",
+    "EffectiveCapacity": 2480.274,
+    "DeadWaterHeight": 89,
+    "FullWaterHeight": 105,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 21.13
+  },
+  {
+    "StationNo": "30302",
+    "Time": "2024-01-12T00:00:00",
+    "EffectiveCapacity": 921.804,
+    "DeadWaterHeight": 57.3,
+    "FullWaterHeight": 75.38,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 11.31,
+    "OutflowTotal": 11.31
   },
   {
     "StationNo": "30401",
@@ -211,11 +250,28 @@
     "OutflowTotal": 0
   },
   {
+    "StationNo": "30802",
+    "Time": "2024-01-12T00:00:00",
+    "EffectiveCapacity": 1519.81,
+    "DeadWaterHeight": 27,
+    "FullWaterHeight": 37,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 11.75
+  },
+  {
     "StationNo": "30901",
     "Time": "2024-01-12T00:00:00",
     "AccumulatedRainfall": 0,
     "InflowTotal": 176.34,
     "OutflowTotal": 176.34
+  },
+  {
+    "StationNo": "31002",
+    "Time": "2024-01-12T00:00:00",
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 28.1664,
+    "OutflowTotal": 28.1664
   },
   {
     "StationNo": "31201",
