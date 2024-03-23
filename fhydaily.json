@@ -10,6 +10,26 @@
     "OutflowTotal": 130.23
   },
   {
+    "StationNo": "10203",
+    "Time": "2024-03-23T00:00:00",
+    "EffectiveCapacity": 39.57,
+    "DeadWaterHeight": 64.73,
+    "FullWaterHeight": 72.08,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 1.11,
+    "OutflowTotal": 0.88
+  },
+  {
+    "StationNo": "10204",
+    "Time": "2024-03-23T00:00:00",
+    "EffectiveCapacity": 995.96,
+    "DeadWaterHeight": 45,
+    "FullWaterHeight": 86,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 1.98,
+    "OutflowTotal": 0
+  },
+  {
     "StationNo": "10205",
     "Time": "2024-03-23T00:00:00",
     "EffectiveCapacity": 36997.5722,
@@ -93,14 +113,24 @@
     "OutflowTotal": 0
   },
   {
-    "StationNo": "30306",
-    "Time": "2024-03-22T07:00:00",
-    "EffectiveCapacity": 69,
-    "DeadWaterHeight": 50,
-    "FullWaterHeight": 60,
+    "StationNo": "30301",
+    "Time": "2024-03-23T00:00:00",
+    "EffectiveCapacity": 2480.274,
+    "DeadWaterHeight": 89,
+    "FullWaterHeight": 105,
     "AccumulatedRainfall": 0,
-    "InflowTotal": 0,
-    "OutflowTotal": 0
+    "InflowTotal": 0.3,
+    "OutflowTotal": 5.87
+  },
+  {
+    "StationNo": "30302",
+    "Time": "2024-03-23T00:00:00",
+    "EffectiveCapacity": 921.804,
+    "DeadWaterHeight": 57.3,
+    "FullWaterHeight": 75.38,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0.98,
+    "OutflowTotal": 6.92
   },
   {
     "StationNo": "30401",
@@ -111,26 +141,6 @@
     "AccumulatedRainfall": 0,
     "InflowTotal": 0.4738,
     "OutflowTotal": 0
-  },
-  {
-    "StationNo": "30403",
-    "Time": "2024-03-22T07:00:00",
-    "EffectiveCapacity": 229.8,
-    "DeadWaterHeight": 11.2,
-    "FullWaterHeight": 14.2,
-    "AccumulatedRainfall": 0,
-    "InflowTotal": 0,
-    "OutflowTotal": 0
-  },
-  {
-    "StationNo": "30501",
-    "Time": "2024-03-22T07:00:00",
-    "EffectiveCapacity": 7846.77,
-    "DeadWaterHeight": 40,
-    "FullWaterHeight": 58.18,
-    "AccumulatedRainfall": 0,
-    "InflowTotal": 466.7,
-    "OutflowTotal": 75.7
   },
   {
     "StationNo": "30502",
