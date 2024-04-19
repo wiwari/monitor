@@ -35,7 +35,9 @@
     "EffectiveCapacity": 174.98,
     "DeadWaterHeight": 41,
     "FullWaterHeight": 44.7,
-    "AccumulatedRainfall": 1.5
+    "AccumulatedRainfall": 1.5,
+    "InflowTotal": 291.18,
+    "OutflowTotal": 291.18
   },
   {
     "StationNo": "10401",
