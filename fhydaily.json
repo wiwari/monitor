@@ -176,7 +176,7 @@
   {
     "StationNo": "20201",
     "Time": "2024-04-28T00:00:00",
-    "EffectiveCapacity": 18866.34,
+    "EffectiveCapacity": 18866.034,
     "DeadWaterHeight": 1310,
     "FullWaterHeight": 1408,
     "AccumulatedRainfall": 12.5,
