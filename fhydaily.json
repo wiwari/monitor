@@ -335,7 +335,7 @@
     "DeadWaterHeight": 2,
     "FullWaterHeight": 9,
     "AccumulatedRainfall": 0,
-    "InflowTotal": 0,
+    "InflowTotal": 0.15,
     "OutflowTotal": 0.1
   },
   {
@@ -355,7 +355,7 @@
     "DeadWaterHeight": 0.5,
     "FullWaterHeight": 6.5,
     "AccumulatedRainfall": 0,
-    "InflowTotal": 0,
+    "InflowTotal": 0.06,
     "OutflowTotal": 0
   },
   {
