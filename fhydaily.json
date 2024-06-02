@@ -71,6 +71,7 @@
     "EffectiveCapacity": 174.98,
     "DeadWaterHeight": 41,
     "FullWaterHeight": 44.7,
+    "AccumulatedRainfall": 15,
     "InflowTotal": 243.33,
     "OutflowTotal": 243.33
   },
