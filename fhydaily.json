@@ -30,6 +30,15 @@
     "OutflowTotal": 275.4
   },
   {
+    "StationNo": "10401",
+    "Time": "2024-06-04T00:00:00",
+    "EffectiveCapacity": 500.83,
+    "DeadWaterHeight": 122,
+    "FullWaterHeight": 141.6,
+    "InflowTotal": 11.42,
+    "OutflowTotal": 3.3
+  },
+  {
     "StationNo": "20201",
     "Time": "2024-06-04T00:00:00",
     "EffectiveCapacity": 18866.034,
