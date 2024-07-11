@@ -438,7 +438,7 @@
     "FullWaterHeight": 13.4,
     "AccumulatedRainfall": 1.3,
     "InflowTotal": 0,
-    "OutflowTotal": 0
+    "OutflowTotal": 0.05
   },
   {
     "StationNo": "50109",
