@@ -163,7 +163,7 @@
     "StationNo": "10802",
     "Time": "2024-07-15T00:00:00",
     "FullWaterHeight": 5.5,
-    "InflowTotal": 0
+    "AccumulatedRainfall": 0
   },
   {
     "StationNo": "20101",
