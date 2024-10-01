@@ -56,6 +56,14 @@
     "OutflowTotal": 9.07
   },
   {
+    "StationNo": "10404",
+    "Time": "2024-10-01T00:00:00",
+    "FullWaterHeight": 44,
+    "AccumulatedRainfall": 29.7,
+    "InflowTotal": 21.11,
+    "OutflowTotal": 21.11
+  },
+  {
     "StationNo": "10405",
     "Time": "2024-10-01T00:00:00",
     "EffectiveCapacity": 3147.18,
