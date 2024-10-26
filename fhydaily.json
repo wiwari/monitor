@@ -127,6 +127,16 @@
     "AccumulatedRainfall": 24
   },
   {
+    "StationNo": "20101",
+    "Time": "2024-10-25T00:00:00",
+    "EffectiveCapacity": 11550.54,
+    "DeadWaterHeight": 243.2,
+    "FullWaterHeight": 300,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 49.77,
+    "OutflowTotal": 100.9
+  },
+  {
     "StationNo": "20201",
     "Time": "2024-10-25T00:00:00",
     "EffectiveCapacity": 18796.1815,
@@ -194,6 +204,16 @@
     "InflowTotal": 118.65
   },
   {
+    "StationNo": "20509",
+    "Time": "2024-10-25T00:00:00",
+    "EffectiveCapacity": 5060.761,
+    "DeadWaterHeight": 165,
+    "FullWaterHeight": 211.5,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 25.06,
+    "OutflowTotal": 22.98
+  },
+  {
     "StationNo": "30301",
     "Time": "2024-10-25T00:00:00",
     "EffectiveCapacity": 2465.6758,
@@ -214,14 +234,44 @@
     "OutflowTotal": 9.13
   },
   {
+    "StationNo": "30306",
+    "Time": "2024-10-25T07:00:00",
+    "EffectiveCapacity": 69,
+    "DeadWaterHeight": 50,
+    "FullWaterHeight": 60,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
     "StationNo": "30401",
-    "Time": "2024-10-24T08:00:00",
+    "Time": "2024-10-25T08:00:00",
     "EffectiveCapacity": 1387.5,
     "DeadWaterHeight": 85,
     "FullWaterHeight": 109,
     "AccumulatedRainfall": 0,
-    "InflowTotal": 7.4203,
+    "InflowTotal": 5.5921,
     "OutflowTotal": 20.926
+  },
+  {
+    "StationNo": "30403",
+    "Time": "2024-10-25T07:00:00",
+    "EffectiveCapacity": 229.8,
+    "DeadWaterHeight": 11.2,
+    "FullWaterHeight": 14.2,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 0,
+    "OutflowTotal": 0
+  },
+  {
+    "StationNo": "30501",
+    "Time": "2024-10-25T07:00:00",
+    "EffectiveCapacity": 7846.77,
+    "DeadWaterHeight": 40,
+    "FullWaterHeight": 58.18,
+    "AccumulatedRainfall": 0,
+    "InflowTotal": 161.4,
+    "OutflowTotal": 266.4
   },
   {
     "StationNo": "30502",
@@ -255,17 +305,17 @@
   },
   {
     "StationNo": "30601",
-    "Time": "2024-10-24T08:00:00",
+    "Time": "2024-10-25T08:00:00",
     "EffectiveCapacity": 106.1,
     "DeadWaterHeight": 30.7,
     "FullWaterHeight": 37,
     "AccumulatedRainfall": 0,
-    "InflowTotal": 0.2505,
+    "InflowTotal": 0,
     "OutflowTotal": 0
   },
   {
     "StationNo": "30602",
-    "Time": "2024-10-24T08:00:00",
+    "Time": "2024-10-25T08:00:00",
     "EffectiveCapacity": 47.1,
     "DeadWaterHeight": 27.5,
     "FullWaterHeight": 31,
