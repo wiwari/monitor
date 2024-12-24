@@ -150,7 +150,6 @@
     "StationNo": "20202",
     "Time": "2024-12-23T00:00:00",
     "EffectiveCapacity": 143.28,
-    "DeadWaterHeight": 295.5,
     "FullWaterHeight": 274.5,
     "AccumulatedRainfall": 17,
     "InflowTotal": 143.2,
