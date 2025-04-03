@@ -146,5 +146,12 @@
     "AccumulatedRainfall": 0.0,
     "InflowTotal": 0.0,
     "OutflowTotal": 0.0
+  },
+  {
+    "StationNo": "31002",
+    "Time": "2025-04-03T00:00:00",
+    "AccumulatedRainfall": 0.3,
+    "InflowTotal": 40.608,
+    "OutflowTotal": 40.608000000000004
   }
 ]
