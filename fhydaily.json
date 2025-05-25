@@ -10,6 +10,16 @@
     "OutflowTotal": 388.57
   },
   {
+    "StationNo": "10212",
+    "Time": "2025-05-25T00:00:00",
+    "EffectiveCapacity": 174.98,
+    "DeadWaterHeight": 41.0,
+    "FullWaterHeight": 44.7,
+    "AccumulatedRainfall": 4.0,
+    "InflowTotal": 449.08,
+    "OutflowTotal": 449.08
+  },
+  {
     "StationNo": "10405",
     "Time": "2025-05-25T00:00:00",
     "EffectiveCapacity": 3383.71,
