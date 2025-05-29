@@ -306,7 +306,7 @@
   {
     "StationNo": "30504",
     "Time": "2025-05-28T00:00:00",
-    "EffectiveCapacity": 96.4,
+    "EffectiveCapacity": 96.567,
     "DeadWaterHeight": 130.0,
     "FullWaterHeight": 143.0,
     "AccumulatedRainfall": 0.0,
