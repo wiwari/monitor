@@ -116,6 +116,15 @@
     "OutflowTotal": 500.589
   },
   {
+    "StationNo": "20202",
+    "Time": "2025-05-29T00:00:00",
+    "EffectiveCapacity": 108.93,
+    "FullWaterHeight": 274.5,
+    "AccumulatedRainfall": 50.0,
+    "InflowTotal": 1538.3,
+    "OutflowTotal": 1543.3999999999999
+  },
+  {
     "StationNo": "20405",
     "Time": "2025-05-29T00:00:00",
     "EffectiveCapacity": 68.23,
@@ -145,6 +154,16 @@
     "OutflowTotal": 520.56
   },
   {
+    "StationNo": "20503",
+    "Time": "2025-05-29T00:00:00",
+    "EffectiveCapacity": 602.88,
+    "DeadWaterHeight": 205.25,
+    "FullWaterHeight": 214.75,
+    "AccumulatedRainfall": 66.5,
+    "InflowTotal": 1413.52,
+    "OutflowTotal": 274.89
+  },
+  {
     "StationNo": "20507",
     "Time": "2025-05-29T00:00:00",
     "EffectiveCapacity": 60.0,
@@ -163,6 +182,16 @@
     "AccumulatedRainfall": 51.5,
     "InflowTotal": -8.31,
     "OutflowTotal": 0.0
+  },
+  {
+    "StationNo": "20509",
+    "Time": "2025-05-29T00:00:00",
+    "EffectiveCapacity": 5041.002,
+    "DeadWaterHeight": 165.0,
+    "FullWaterHeight": 211.5,
+    "AccumulatedRainfall": 23.0,
+    "InflowTotal": 56.68,
+    "OutflowTotal": 26.66
   },
   {
     "StationNo": "30301",
@@ -185,14 +214,44 @@
     "OutflowTotal": 5.58
   },
   {
+    "StationNo": "30306",
+    "Time": "2025-05-29T07:00:00",
+    "EffectiveCapacity": 69.0,
+    "DeadWaterHeight": 50.0,
+    "FullWaterHeight": 60.0,
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 0.0,
+    "OutflowTotal": 0.0
+  },
+  {
     "StationNo": "30401",
-    "Time": "2025-05-28T08:00:00",
+    "Time": "2025-05-29T08:00:00",
     "EffectiveCapacity": 1404.156,
     "DeadWaterHeight": 85.0,
     "FullWaterHeight": 109.0,
-    "AccumulatedRainfall": 5.5,
-    "InflowTotal": 2.592,
-    "OutflowTotal": 2.592
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 0.0,
+    "OutflowTotal": 0.0
+  },
+  {
+    "StationNo": "30403",
+    "Time": "2025-05-29T07:00:00",
+    "EffectiveCapacity": 229.8,
+    "DeadWaterHeight": 11.2,
+    "FullWaterHeight": 14.2,
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 0.0,
+    "OutflowTotal": 0.0
+  },
+  {
+    "StationNo": "30501",
+    "Time": "2025-05-29T07:00:00",
+    "EffectiveCapacity": 7737.941,
+    "DeadWaterHeight": 40.0,
+    "FullWaterHeight": 58.18,
+    "AccumulatedRainfall": 9.0,
+    "InflowTotal": 154.2,
+    "OutflowTotal": 70.2
   },
   {
     "StationNo": "30502",
@@ -226,21 +285,21 @@
   },
   {
     "StationNo": "30601",
-    "Time": "2025-05-28T08:00:00",
+    "Time": "2025-05-29T08:00:00",
     "EffectiveCapacity": 106.1,
     "DeadWaterHeight": 30.7,
     "FullWaterHeight": 37.0,
-    "AccumulatedRainfall": 3.0,
-    "InflowTotal": 0.3061,
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 0.0,
     "OutflowTotal": 0.0
   },
   {
     "StationNo": "30602",
-    "Time": "2025-05-28T08:00:00",
+    "Time": "2025-05-29T08:00:00",
     "EffectiveCapacity": 47.1,
     "DeadWaterHeight": 27.5,
     "FullWaterHeight": 31.0,
-    "AccumulatedRainfall": 5.5,
+    "AccumulatedRainfall": 0.0,
     "InflowTotal": 0.0,
     "OutflowTotal": 0.0
   },
@@ -253,6 +312,13 @@
     "AccumulatedRainfall": 10.2,
     "InflowTotal": 297.0,
     "OutflowTotal": 4.67
+  },
+  {
+    "StationNo": "31002",
+    "Time": "2025-05-29T00:00:00",
+    "AccumulatedRainfall": 32.2,
+    "InflowTotal": 114.6528,
+    "OutflowTotal": 114.6528
   },
   {
     "StationNo": "31201",
