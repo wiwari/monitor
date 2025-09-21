@@ -96,6 +96,16 @@
     "OutflowTotal": 0.0
   },
   {
+    "StationNo": "20101",
+    "Time": "2025-09-20T00:00:00",
+    "EffectiveCapacity": 11584.35,
+    "DeadWaterHeight": 243.2,
+    "FullWaterHeight": 300.0,
+    "AccumulatedRainfall": 15.4,
+    "InflowTotal": 161.83,
+    "OutflowTotal": 161.85
+  },
+  {
     "StationNo": "20201",
     "Time": "2025-09-20T00:00:00",
     "EffectiveCapacity": 18432.8841,
@@ -142,6 +152,16 @@
     "AccumulatedRainfall": 0.0,
     "InflowTotal": 120.79,
     "OutflowTotal": 58.67
+  },
+  {
+    "StationNo": "20503",
+    "Time": "2025-09-20T00:00:00",
+    "EffectiveCapacity": 602.88,
+    "DeadWaterHeight": 205.25,
+    "FullWaterHeight": 214.75,
+    "AccumulatedRainfall": 1.7,
+    "InflowTotal": 813.2,
+    "OutflowTotal": 167.47
   },
   {
     "StationNo": "20507",
@@ -194,14 +214,14 @@
     "OutflowTotal": 12.65
   },
   {
-    "StationNo": "30401",
-    "Time": "2025-09-19T08:00:00",
-    "EffectiveCapacity": 1404.156,
-    "DeadWaterHeight": 85.0,
-    "FullWaterHeight": 109.0,
-    "AccumulatedRainfall": 47.6,
-    "InflowTotal": 58.19,
-    "OutflowTotal": 0.1901
+    "StationNo": "30501",
+    "Time": "2025-09-20T00:00:00",
+    "EffectiveCapacity": 7737.941,
+    "DeadWaterHeight": 40.0,
+    "FullWaterHeight": 58.18,
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 88.2,
+    "OutflowTotal": 62.2
   },
   {
     "StationNo": "30502",
@@ -232,26 +252,6 @@
     "AccumulatedRainfall": 0.0,
     "InflowTotal": 0.66,
     "OutflowTotal": 0.21
-  },
-  {
-    "StationNo": "30601",
-    "Time": "2025-09-19T08:00:00",
-    "EffectiveCapacity": 106.1,
-    "DeadWaterHeight": 30.7,
-    "FullWaterHeight": 37.0,
-    "AccumulatedRainfall": 0.0,
-    "InflowTotal": 0.0,
-    "OutflowTotal": 0.0
-  },
-  {
-    "StationNo": "30602",
-    "Time": "2025-09-19T08:00:00",
-    "EffectiveCapacity": 47.1,
-    "DeadWaterHeight": 27.5,
-    "FullWaterHeight": 31.0,
-    "AccumulatedRainfall": 0.0,
-    "InflowTotal": 0.0,
-    "OutflowTotal": 0.0
   },
   {
     "StationNo": "30802",
