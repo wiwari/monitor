@@ -184,6 +184,26 @@
     "OutflowTotal": 45.54
   },
   {
+    "StationNo": "30301",
+    "Time": "2025-09-22T00:00:00",
+    "EffectiveCapacity": 2465.68,
+    "DeadWaterHeight": 89.0,
+    "FullWaterHeight": 105.0,
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 28.79,
+    "OutflowTotal": 28.79
+  },
+  {
+    "StationNo": "30302",
+    "Time": "2025-09-22T00:00:00",
+    "EffectiveCapacity": 921.804,
+    "DeadWaterHeight": 57.3,
+    "FullWaterHeight": 75.38,
+    "AccumulatedRainfall": 0.0,
+    "InflowTotal": 11.68,
+    "OutflowTotal": 11.68
+  },
+  {
     "StationNo": "30401",
     "Time": "2025-09-21T08:00:00",
     "EffectiveCapacity": 1404.156,
