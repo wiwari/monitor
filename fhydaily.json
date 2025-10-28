@@ -120,6 +120,12 @@
     "OutflowTotal": 3.5669
   },
   {
+    "StationNo": "10802",
+    "Time": "2025-10-27T00:00:00",
+    "AccumulatedRainfall": 25.0,
+    "OutflowTotal": 0.0
+  },
+  {
     "StationNo": "20101",
     "Time": "2025-10-27T00:00:00",
     "EffectiveCapacity": 11584.35,
