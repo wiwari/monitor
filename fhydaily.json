@@ -26,7 +26,8 @@
     "DeadWaterHeight": 0.0,
     "FullWaterHeight": 413.0,
     "AccumulatedRainfall": 3.5,
-    "OutflowTotal": 0.0
+    "InflowTotal": 102.21,
+    "OutflowTotal": 103.08
   },
   {
     "StationNo": "10405",
@@ -55,7 +56,8 @@
     "DeadWaterHeight": 969.0,
     "FullWaterHeight": 1005.0,
     "AccumulatedRainfall": 49.0,
-    "OutflowTotal": 125.0
+    "InflowTotal": 125.0,
+    "OutflowTotal": 0.0
   },
   {
     "StationNo": "30306",
