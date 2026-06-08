@@ -46,8 +46,8 @@
     "DeadWaterHeight": 0.0,
     "FullWaterHeight": 413.0,
     "AccumulatedRainfall": 33.2,
-    "InflowTotal": 113.01,
-    "OutflowTotal": 107.69
+    "InflowTotal": 192.33,
+    "OutflowTotal": 190.60000000000002
   },
   {
     "StationNo": "10211",
@@ -118,6 +118,12 @@
     "AccumulatedRainfall": 9.2,
     "InflowTotal": 5.4281,
     "OutflowTotal": 5.4281
+  },
+  {
+    "StationNo": "10802",
+    "Time": "2026-06-07T00:00:00",
+    "AccumulatedRainfall": 50.0,
+    "OutflowTotal": 0.0
   },
   {
     "StationNo": "20101",
